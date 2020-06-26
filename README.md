@@ -43,6 +43,6 @@ Cancel booked slot:
 -----------------------
 http://127.0.0.1:1234/book/cancel/day_id/slot_id (POST request)
 
-Example: http://127.0.0.1:1234/book/5ef51d51f02bf5bd9ecbddaa/5ef4eeb2db60a1f9d8e91c0b
+Example: http://127.0.0.1:1234/book/cancel/5ef51d51f02bf5bd9ecbddaa/5ef4eeb2db60a1f9d8e91c0b
 
 
