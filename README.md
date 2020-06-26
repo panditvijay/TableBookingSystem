@@ -18,7 +18,7 @@ saturday: 5ef58cd442779bbe5984fe7f</br>
 sunday: 5ef58d0242779bbe5984fe80
 
 
-To see available slot for each indivisual day:
+To see available slot for each individual day:
 ----------------------------------------------
 http://127.0.0.1:1234/book/day_id (GET request)
 
